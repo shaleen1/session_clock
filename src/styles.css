@@ -2,3 +2,20 @@
   font-family: sans-serif;
   text-align: center;
 }
+html {
+  background-color: rgb(24, 30, 32);
+}
+div {
+  background-color: rgb(24, 30, 32);
+  color: skyblue;
+}
+button {
+  transition-duration: 0.4s;
+}
+button:hover {
+  background-color: rgb(48, 35, 170);
+}
+#info {
+  border-radius: 25px;
+  border: 2px solid;
+}
